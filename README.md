@@ -8,6 +8,9 @@ tarjan系列[动图讲解](https://zhuanlan.zhihu.com/p/101923309)
 [bzoj4316 小c的独立集](https://anoxiacxy.github.io/more/bzoj/p/4316.html)   
 **基础数论**  
 [莫比乌斯反演](https://www.luogu.com.cn/blog/An-Amazing-Blog/mu-bi-wu-si-fan-yan-ji-ge-ji-miao-di-dong-xi)  
+
+[随处可见的莫比乌斯反演P2257](https://www.luogu.com.cn/problem/P2257)
+
 最初的min_25筛  
 [Libre6053](https://loj.ac/p/6053)  
 脑筋急转弯  
