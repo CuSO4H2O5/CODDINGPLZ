@@ -2,7 +2,7 @@
 一起来做题！
 
 由于经常忘事，每次发现好题的时候并不能即时做出来，但有时间做的时候又想不起来要做什么，于是一起将一些比较经典的好题或者遇到的有趣（没时间做）的题目与一些算法的讲解存放在这里，欢迎补充。   
-**经典图论** 
+**经典图论**  
 tarjan系列[动图讲解](https://zhuanlan.zhihu.com/p/101923309)  
 [bzoj1023 仙人掌图](https://anoxiacxy.github.io/more/bzoj/p/1023.html)  
 [bzoj4316 小c的独立集](https://anoxiacxy.github.io/more/bzoj/p/4316.html)   
